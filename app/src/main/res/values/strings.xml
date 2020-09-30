@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lotto</string>
+    <string name="rok">Rok</string>
+    <string name="kropka">.</string>
+    <string name="kropka1">.</string>
+    <string name="miesiac">Miesiąc</string>
+    <string name="dzien">Dzień</string>
+    <string name="wylosuj">wylosuj</string>
+</resources>
