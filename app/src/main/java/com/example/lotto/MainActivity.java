@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Random generator = new Random();
 
 
-
+    String bc;
     String Srok = rok.getText().toString().trim();
 
          String a = Srok.substring(0,2);
